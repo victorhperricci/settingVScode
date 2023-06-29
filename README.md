@@ -1,5 +1,6 @@
 ### Minhas configurações
 
+```
 {
     // Security
     "json.validate.enable": false,
@@ -136,4 +137,4 @@
     "window.zoomLevel": -1,
     "bracketPairColorizer.depreciation-notice": false,
     "terminal.integrated.defaultProfile.windows": "Git Bash"
-}
+}```
